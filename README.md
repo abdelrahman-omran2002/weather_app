@@ -13,7 +13,6 @@ A Flutter app that shows real-time weather data for any city.
 - OpenWeatherMap API
 
 ## 📸 Screenshots
-## 📸 Screenshots
 <img src="screenshots/noBodyInfo.png" width="250">
 <img src="screenshots/searchScreen.png" width="250">
 <img src="screenshots/weatherBodyInfo.png" width="250">
